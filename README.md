@@ -31,7 +31,7 @@ Esta API possui endpoints protegidos por JWT, testes automatizados e persistênc
 ## Estrutura do projeto
 
 ```text
-Pizzaria/
+API-Pizzaria/
 ├── src/
 │ ├── controllers/
 │ │ ├── UserController.ts
@@ -72,6 +72,7 @@ Clone o repositório para sua máquina
 
 ```bash
 git clone https://github.com/Pauloohg/API-Pizzaria.git
+cd API-Pizzaria
 ```
 
 ### 2. Instalar dependências
