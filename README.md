@@ -67,10 +67,11 @@ Pizzaria/
 
 ## Instalação e Configuração
 
-### 1. Inicializar o projeto com TypeORM
+### 1. Inicializar o projeto
+Clone o repositório para sua máquina
 
 ```bash
-npx typeorm init --name pizzaria --database sqlite
+git clone https://github.com/Pauloohg/API-Pizzaria.git
 ```
 
 ### 2. Instalar dependências
